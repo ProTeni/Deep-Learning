@@ -1,0 +1,3 @@
+[submodule "NLP/Popchip_Review_Analysis-w-NLP"]
+	path = NLP/Popchip_Review_Analysis-w-NLP
+	url = https://github.com/ProTeni/Popchip_Review_Analysis-w-NLP.git
